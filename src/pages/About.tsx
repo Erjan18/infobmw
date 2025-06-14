@@ -104,7 +104,7 @@ export function About() {
             </div>
             <div className="animate-slide-in-right">
               <img 
-                src="https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://di-uploads-pod16.dealerinspire.com/bmwofpeoria/uploads/2019/09/2020-BMW-M5-Driving-Down-Highway.jpg"
                 alt="BMW История"
                 className="w-full h-96 object-cover rounded-xl shadow-lg"
               />
